@@ -1,8 +1,5 @@
 # Interim‑1 Report: Fraud Detection – Task 1
 
-**Author:**Bitanya Dereje
-**Date:** 7 June 2026  
-**Repository:** [GitHub link]
 
 ## 1. Data Cleaning and Preprocessing
 
