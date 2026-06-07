@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# Data files (large, not to be committed)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+
+# Models (binary files)
+models/*.pkl
+models/*.joblib
+models/*.onnx
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
